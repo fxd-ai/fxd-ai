@@ -1,89 +1,89 @@
-<p align="left"><sub>PERSONAL AI LAB / FXD-AI</sub></p>
+<p align="left"><sub>个人 AI 实验室 / FXD-AI</sub></p>
 
 # FXD.AI
 
-**AI Engineer · NLP · RAG · Agents**
+**AI 工程师 · NLP · RAG · 智能体**
 
-Building intelligent systems<br>
-from retrieval → reasoning → action.
+构建智能系统<br>
+从检索 → 推理 → 行动。
 
-*Exploring the future of Agentic AI.*
+*探索智能体 AI 的未来。*
 
-<img src="assets/retrieval-reasoning-action.svg" alt="AI engineering pipeline: retrieval, reasoning, action." width="960">
+<img src="assets/retrieval-reasoning-action.svg" alt="AI 工程流程：检索、推理、行动。" width="960">
 
-## ABOUT
+## 关于我
 
-AI Application Engineer focused on LLM-powered applications and production AI systems.
+AI 应用工程师，专注于大语言模型应用与面向生产环境的 AI 系统。
 
-My work spans retrieval, language understanding, and agent workflows—with an emphasis on evaluation, reliable APIs, and practical enterprise applications.
+围绕知识检索、自然语言理解与智能体工作流开展工程实践，关注系统评估、可靠的 API 服务，以及 AI 在企业场景中的实际应用。
 
-## CURRENT FOCUS
+## 当前方向
 
-**01 / Retrieval-Augmented Generation**<br>
-Connecting enterprise knowledge to grounded answers through retrieval and reranking.
+**01 / 检索增强生成（RAG）**<br>
+通过检索与重排序连接企业知识，让生成的回答有据可依。
 
-**02 / Agentic AI Systems**<br>
-Exploring how tools, memory, and planning come together in coordinated workflows.
+**02 / 智能体系统**<br>
+探索工具调用、记忆与规划如何协同，构建有序的智能体工作流。
 
-**03 / NLP Engineering**<br>
-Building text classification pipelines around strong baselines, consistent evaluation, and error analysis.
+**03 / 自然语言处理工程**<br>
+从可靠基线出发，结合统一评估与错误分析，构建文本分类流程。
 
-**04 / Enterprise AI Applications**<br>
-Turning models and experiments into services that can be integrated, tested, and operated.
+**04 / 企业级 AI 应用**<br>
+将模型与实验转化为可集成、可测试、可运维的服务。
 
-## TECH STACK
+## 技术栈
 
-**AI / NLP**<br>
+**AI / 自然语言处理**<br>
 Python · PyTorch · Transformers · BERT · FastText · Scikit-learn
 
-**LLM / RAG**<br>
+**大语言模型 / 检索增强生成**<br>
 RAG · LangChain · LangGraph · Milvus · Embedding · Reranker
 
-**Backend / Engineering**<br>
+**后端 / 工程化**<br>
 FastAPI · MySQL · Docker · REST API
 
-## SELECTED WORK
+## 精选项目
 
 ### 01 / KNOWFORGE
 
-**Enterprise RAG Knowledge System**
+**企业级 RAG 知识库系统**
 
-An enterprise knowledge system centered on hybrid retrieval, embeddings, reranking, and LLM generation. The engineering focus: connecting relevant source material to grounded answers.
+围绕混合检索、向量嵌入、重排序与大模型生成构建企业知识库。关注如何找到相关资料，并将其转化为有依据的回答。
 
-<sub>RETRIEVE → RERANK → GENERATE</sub>
+<sub>检索 → 重排序 → 生成</sub>
 
-**Core stack** · BGE-M3 · Milvus · Reranker · LLM
+**核心技术** · BGE-M3 · Milvus · Reranker · LLM
 
 ---
 
 ### 02 / NLP CLASSIFIER
 
-**Production Text Classification System**
+**面向生产环境的文本分类系统**
 
-A text classification project spanning baseline development, model tuning, unified evaluation, and error analysis—through to FastAPI serving and load testing.
+覆盖基线构建、模型调优、统一评估与错误分析，延伸至 FastAPI 服务化及压力测试，贯通从模型实验到服务部署的工程流程。
 
-The model comparison covers TF-IDF with Logistic Regression, FastText, TextCNN, and DistilBERT.
+对比 TF-IDF + Logistic Regression、FastText、TextCNN 与 DistilBERT 等方案。
 
-<sub>BASELINE → EVALUATE → ANALYZE → SERVE</sub>
+<sub>基线 → 评估 → 分析 → 服务化</sub>
 
-**Core stack** · TF-IDF · Logistic Regression · FastText · TextCNN · DistilBERT · FastAPI
+**核心技术** · TF-IDF · Logistic Regression · FastText · TextCNN · DistilBERT · FastAPI
 
 ---
 
 ### 03 / AGENT LAB
 
-**Agentic AI System Experiments**
+**智能体系统实验室**
 
-Experiments in agent routing, tool calling, memory, planning, and workflow orchestration. Exploring how individual capabilities compose into structured, inspectable agent workflows.
+探索智能体路由、工具调用、记忆、规划与工作流编排，研究如何将独立能力组合为结构清晰、过程可检查的智能体工作流。
 
-<sub>ROUTE → PLAN → CALL TOOLS → COORDINATE</sub>
+<sub>路由 → 规划 → 工具调用 → 协同</sub>
 
-**Core stack** · LangGraph · Tools · Memory · Planning
+**核心技术** · LangGraph · Tools · Memory · Planning
 
-## GITHUB / ACTIVITY
+## 开源动态
 
-[Explore repositories](https://github.com/fxd-ai?tab=repositories) · [View contribution activity](https://github.com/fxd-ai?tab=overview)
+[浏览代码仓库](https://github.com/fxd-ai?tab=repositories) · [查看贡献记录](https://github.com/fxd-ai?tab=overview)
 
 ---
 
-<p align="center"><sub>Build. Retrieve. Reason. Act.</sub></p>
+<p align="center"><sub>构建 · 检索 · 推理 · 行动</sub></p>
